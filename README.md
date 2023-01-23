@@ -1,1 +1,2 @@
 # One_hidden_layer_networks
+A hidden layer in a neural network refers to a layer of neurons that is located between the input layer and output layer. The input is passed through the hidden layer, where it is processed and transformed, before being passed to the output layer. A neural network with one hidden layer is considered a simple model, and is typically used as a starting point for more complex architectures. However, it's not always necessary to have multiple hidden layers, sometimes a single hidden layer with enough neurons can achieve the desired performance.
